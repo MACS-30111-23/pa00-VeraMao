@@ -14,12 +14,11 @@ Here is a pic that I took at Grand Canyon AZ.
 What I did for HW P00:
 1. Clone the private repository to my local machine using SSH.
 2. Save changes to keep track the progress. 
-3. Commit and Push changes to the master repository. 
-4. Create separate branches for different part of the assignment.
-5. Push Git Tags.
+3. Commit and Push changes to the master repository (with Tags!)
+4. Create separate branches for different part of the assignment (usually will do but not for this one).
 
 New Learnings and Surprises:<br/>
-One learning aspect of suing Git/Github for homework is the ability to track changes, revert to the previous versions, and collaborate with team on he same project. The integration of Markdown shows how simple markdown can improve documentation. 
+One learning aspect of suing Git/Github for homework is the ability to track changes, revert to the previous versions, and collaborate with team on the same project. The integration of Markdown shows how simple markdown can improve documentation. 
 
 
 ## 📚  Resources 
