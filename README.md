@@ -9,7 +9,7 @@ Here is a pic that I took at Grand Canyon AZ.
 <img src="IMG_3403.JPG">
 
 <b>Links</b>
-* <a src="https://www.linkedin.com/in/jiaming-mao/">LinkedIn</a>
+* [LinkedIn](https://www.linkedin.com/in/jiaming-mao/)
 
 What I did for HW P00:
 1. Clone the private repository to my local machine using SSH.
