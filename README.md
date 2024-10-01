@@ -1,17 +1,25 @@
-# PA 00
+# MACS 30111
+## PA 00
+<b>TThu 9:30-10:50</b>
+* Hi there!
+* My name is Jiaming Mao and feel free to call me Vera
+* MACS General first year student
 
-For this assignment, you will submit TWO files -- the readme and the script file. 
+Here is a pic that I took at Grand Canyon AZ. 
+<img src="IMG_3403.JPG">
 
+<b>Links</b>
+* <a src="https://www.linkedin.com/in/jiaming-mao/">LinkedIn</a>
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+What I did for HW P00:
+1. Clone the private repository to my local machine using SSH.
+2. Save changes to keep track the progress. 
+3. Commit and Push changes to the master repository. 
+4. Create separate branches for different part of the assignment.
+5. Push Git Tags.
 
-
+New Learnings and Surprises:<br/>
+One learning aspect of suing Git/Github for homework is the ability to track changes, revert to the previous versions, and collaborate with team on he same project. The integration of Markdown shows how simple markdown can improve documentation. 
 
 
 ## 📚  Resources 
