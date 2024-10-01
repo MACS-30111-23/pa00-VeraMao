@@ -1,7 +1,6 @@
 # MACS 30111
 ## PA 00
-<b>TThu 9:30-10:50</b>
-* Hi there!
+* <b>Hi there!</b>
 * My name is Jiaming Mao and feel free to call me Vera
 * MACS General first year student
 
